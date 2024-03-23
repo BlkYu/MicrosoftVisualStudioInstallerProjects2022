@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftVisualStudioInstallerProjects2022", "MicrosoftVisualStudioInstallerProjects2022\MicrosoftVisualStudioInstallerProjects2022.csproj", "{A1A7A94D-6ACD-4288-96EE-F6E2EB1F1519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicrosoftVisualStudioInstallerProjects2022", "MicrosoftVisualStudioInstallerProjects2022\MicrosoftVisualStudioInstallerProjects2022.csproj", "{A1A7A94D-6ACD-4288-96EE-F6E2EB1F1519}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MicrosoftVisualStudioInstallerProjects2022Installer", "MicrosoftVisualStudioInstallerProjects2022Installer\MicrosoftVisualStudioInstallerProjects2022Installer.vdproj", "{AEAF001D-79C8-4DD0-8E9D-BF9B43390530}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{A1A7A94D-6ACD-4288-96EE-F6E2EB1F1519}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1A7A94D-6ACD-4288-96EE-F6E2EB1F1519}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1A7A94D-6ACD-4288-96EE-F6E2EB1F1519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEAF001D-79C8-4DD0-8E9D-BF9B43390530}.Debug|Any CPU.ActiveCfg = Debug
+		{AEAF001D-79C8-4DD0-8E9D-BF9B43390530}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
